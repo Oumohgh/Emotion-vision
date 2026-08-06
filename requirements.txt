@@ -1,0 +1,6 @@
+streamlit>=1.25.0
+opencv-python>=4.8.0
+deepface>=0.0.79
+mediapipe
+tf-keras
+mediapipe==0.10.14
